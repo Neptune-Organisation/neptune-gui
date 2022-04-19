@@ -1,0 +1,123 @@
+{
+    "buttonList" : [
+        {
+          "label": "submit"
+        },
+        {
+          "label": "send"
+        },
+        {
+          "label": "switch"
+        }
+    ],
+    "cardList" : [
+        {
+          "label": "personalCard"
+        },
+        {
+          "label": "productCard"
+        }
+    ],
+    "formList" : [
+        {
+          "label": "contactForm"
+        },
+        {
+          "label": "message"
+        }
+    ],
+    "groupList" : [
+        {
+          "label": "iconGroup"
+        },
+        {
+          "label": "imageGroup"
+        },
+        {
+          "label": "mediaGroup"
+        }
+    ],
+    "inputList" : [
+        {
+          "label": "input"
+        }
+    ],
+    "layoutList" : [
+        {
+          "label": "article"
+        }
+    ],
+    "mediaList" : [
+        {
+          "label": "icon"
+        },
+        {
+          "label": "image"
+        },
+        {
+          "label": "media"
+        }
+    ],
+    "menuList" : [
+        {
+          "label": "menu"
+        }
+    ],
+    "navigationList" : [
+        {
+          "label": "goto"
+        },
+        {
+          "label": "navbar"
+        }
+    ],
+    "otherList" : [
+        {
+          "label": "other"
+        }
+    ],
+    "pickerList" : [
+        {
+          "label": "slider"
+        },
+        {
+          "label": "colorPicker"
+        },
+        {
+          "label": "datePicker"
+        }
+    ],
+    "shorthandList" : [
+        {
+          "label": "burger"
+        },
+        {
+          "label": "döner"
+        },
+        {
+          "label": "bento"
+        },
+        {
+            "label" : "kebab"
+        }
+    ],
+    "textList" : [
+        {
+          "label": "articleTitle"
+        },
+        {
+          "label": "body"
+        },
+        {
+          "label": "pageTitle"
+        },
+        {
+          "label": "sectionTitle"
+        }
+    ],
+    "toggleList" : [
+        {
+          "label": "toggler"
+        }
+    ]
+}

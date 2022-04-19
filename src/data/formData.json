@@ -1,0 +1,42 @@
+{
+    "formTitle" : "Form Title",
+    "formTitleClass" : "",
+    "formFields" : [
+        {
+            "containerClass" : "",
+            "htmlLabel" : "fName",
+            "inputLabel" : "First Name",
+            "labelClass" : "",
+            "inputType" : "text",
+            "inputClass" : "",
+            "minLength" : "2",
+            "maxLength" : "15",
+            "required" : true
+        },
+        {
+            "containerClass" : "",
+            "htmlLabel" : "lName",
+            "inputLabel" : "Last Name",
+            "labelClass" : "",
+            "inputType" : "text",
+            "inputClass" : "",
+            "minLength" : "2",
+            "maxLength" : "15",
+            "required" : true
+        },
+        {
+            "containerClass" : "",
+            "htmlLabel" : "mail",
+            "inputLabel" : "E-Mail",
+            "labelClass" : "",
+            "inputType" : "email",
+            "inputClass" : "",
+            "minLength" : "",
+            "maxLength" : "",
+            "required" : true
+        }
+    ],
+    "formClass" : "",
+    "txtAreaName" : "",
+    "txtAreaId" : ""
+}

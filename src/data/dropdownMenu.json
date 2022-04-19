@@ -1,0 +1,22 @@
+{
+    "dropdownMenuClass" : "",
+    "dropdownMenuLabel" : "Options Menu",
+    "dropdownSelectClass" : "",
+    "menuOptions" : [
+        {
+            "optionValue" : "first",
+            "optionTxt" : "First Option"
+        },
+        {
+            "optionValue" : "second",
+            "optionTxt" : "Second Option"
+        },
+        {
+            "optionValue" : "third",
+            "optionTxt" : "Third Option"
+        }
+    ],
+    "menuName" : "optionsMenu",
+    "btnClass" : "",
+    "btnType" : "submit"
+}

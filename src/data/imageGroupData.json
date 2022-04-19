@@ -1,0 +1,25 @@
+{
+    "imageGroupClass" : "imagesRow",
+    "images" : [
+        {
+            "imgUrl" : "https://images.unsplash.com/photo-1650221427179-ecd07fee53c2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
+            "imgAlt" : "First Image",
+            "imgClass" : "med-squareImage"
+        },
+        {
+            "imgUrl" : "https://images.unsplash.com/photo-1650277042843-0d9cb8d060b1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
+            "imgAlt" : "Second Image",
+            "imgClass" : "med-squareImage"
+        },
+        {
+            "imgUrl" : "https://images.unsplash.com/photo-1650184467974-1edbc61865c9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw0fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
+            "imgAlt" : "Third Image",
+            "imgClass" : "med-squareImage"
+        },
+        {
+            "imgUrl" : "https://images.unsplash.com/photo-1584473456267-a132b72d2d09?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw1fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
+            "imgAlt" : "Fourth Image",
+            "imgClass" : "med-squareImage"
+        }
+    ]
+}

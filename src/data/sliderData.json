@@ -1,0 +1,8 @@
+{
+    "minRange" : 100,
+    "maxRange" : 0,
+    "sendButton" : {
+        "btnClass" : "",
+        "btnType" : "submit"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "listClass" : "",
+    "listContainerClass" : "",
+    "listTitle" : "List Title",
+    "listTitleClass" : "",
+    "listEntries" : ["first", "second", "third", "fourth"],
+    "listEntryClass" : ""
+}
